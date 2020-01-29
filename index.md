@@ -1,3 +1,3 @@
-# Portfolio
+# RitzyCSGO
 
-### by ...
+### by Ben Hunt
